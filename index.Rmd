@@ -6,4 +6,5 @@ documentclass: book
 classoption: openany
 ---
 
-# The Texbook of My Life
+# Introduction 
+# Meditating on the Self
