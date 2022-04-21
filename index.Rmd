@@ -6,5 +6,4 @@ documentclass: book
 classoption: openany
 ---
 
-# Introduction 
-# Meditating on the Self
+# The Textbook of My Life
