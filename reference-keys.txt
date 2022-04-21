@@ -1,4 +1,5 @@
-the-texbook-of-my-life
 introduction
-what-is-this-book
 meditating-on-the-self
+introduction-1
+what-is-this-book
+meditating-on-the-self-1
