@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "The Textbook of My Life"
+author: "Sarah Barlow-Ochshorn"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
